@@ -53,10 +53,10 @@ async def start_(client: Client, message: Message):
                 ],
                 [
                     InlineKeyboardButton(
-                        "𝕊𝕌ℙℙ𝕆ℝ𝕋🛎️", url=f"https://t.me/Sweetkingdom1"
+                        "𝕊𝕌ℙℙ𝕆ℝ𝕋🛎️", url=f"https://t.me/OAN_Support"
                     ),
                     InlineKeyboardButton(
-                        "⚜️𝕆𝕎ℕ𝔼ℝ⚜️", url=f"@Alone_Shaurya_king"
+                        "⚜️𝕆𝕎ℕ𝔼ℝ⚜️", url=f"@ItsAttitudeking"
                     )
                 ],
                 [
